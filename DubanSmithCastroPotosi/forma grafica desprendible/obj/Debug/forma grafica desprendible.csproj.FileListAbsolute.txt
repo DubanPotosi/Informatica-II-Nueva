@@ -1,0 +1,24 @@
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.csprojAssemblyReference.cache
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.Form1.resources
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.Properties.Resources.resources
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.csproj.GenerateResource.cache
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.csproj.CoreCompileInputs.cache
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\bin\Debug\forma grafica desprendible.exe.config
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\bin\Debug\forma grafica desprendible.exe
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\bin\Debug\forma grafica desprendible.pdb
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.exe
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.pdb
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.mainmenu.resources
+D:\visual studio\codigo\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.desprendible.resources
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\bin\Debug\forma grafica desprendible.exe.config
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\bin\Debug\forma grafica desprendible.exe
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\bin\Debug\forma grafica desprendible.pdb
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.csprojAssemblyReference.cache
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.Form1.resources
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.Properties.Resources.resources
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.csproj.GenerateResource.cache
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.csproj.CoreCompileInputs.cache
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.exe
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma grafica desprendible.pdb
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.MenuPrincipal.resources
+C:\Users\dcast\source\repos\forma grafica desprendible\forma grafica desprendible\obj\Debug\forma_grafica_desprendible.DesprendibleTrabajador.resources
